@@ -1,0 +1,94 @@
+ *{
+    margin: 0;
+    padding: 0;
+}
+ #navbar{
+    background-color: #0f1111;
+    color: white;
+    height: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 100px;
+}
+
+#logo{
+    margin-left: 2px;
+    font-size: 20px;
+    color: #f08804;
+}
+ 
+button{
+    background-color: #f08804;
+    color: white;
+} 
+
+.contentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    
+}
+#content{
+    height: 400px;
+}
+
+footer{
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+}
+span{
+    color: red;
+
+} 
+
+
+
+
+
+
+
+
+    
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
